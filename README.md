@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<p>💻 NodeJS | PHP | Python | Javascript | Kafka</p>
+<p>💻 NodeJS | PHP | Python | Golang | Javascript | Kafka</p>
 <p>💾 NestJS | Laravel | AdonisJS | ExpressJS | CakePHP2 | Flask | Vuejs </p>
 <p>🌐 JavaScript | Bootstrap | Tailwinds | Livewrire</p>
 <p>🛢 MySQL | Redis | MongoDB</p>
@@ -20,6 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truongbo17&show_icons=true&locale=en&layout=compact" alt="truongbo17" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=truongbo17&show_icons=true&locale=en" alt="truongbo17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truongbo17&" alt="truongbo17" /></p>
 
