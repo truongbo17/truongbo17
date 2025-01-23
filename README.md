@@ -9,10 +9,10 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p>💻 NodeJS | PHP | Python | Golang | Javascript | Kafka</p>
-<p>💾 NestJS | Laravel | AdonisJS | ExpressJS | CakePHP2 | Flask | Vuejs </p>
+<p>💾 NestJS | Gin | Laravel | AdonisJS | ExpressJS | CakePHP2 | Flask | Vuejs </p>
 <p>🌐 JavaScript | Bootstrap | Tailwinds | Livewrire</p>
 <p>🛢 MySQL | Redis | MongoDB</p>
-<p>🔧 Deployer | Git | Jenkins | Rke | Docker, Nginx</p>
+<p>🔧 Deployer | Git | Jenkins | Rke | Docker| Nginx</p>
 <p>🖥 Linux | Window | MacOs</p>
 
 <h3 align="left">Overview:</h3>
